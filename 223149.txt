@@ -1,0 +1,67 @@
+Documentation
+
+git init
+git git branch -M master
+git remote add origin https://github.com/draganrizov/SI_2024_lab1_223149.git
+git remote add origin https://github.com/draganrizov/SI_2024_lab1_223149.git
+git git branch -M master
+git branch -M master
+git remote add origin https://github.com/draganrizov/SI_2024_lab1_223149.git
+nano README.md
+git status
+git add .
+git commit -m "Initial commit"
+git add .
+git commit -m "Add starter code"
+git status
+git push origin master
+git checkout -b bug1
+git checkout master
+git checkout -b bug2
+git checkout bug
+git checkout bug1
+git status
+git add .
+git commit -m "Fix wrong condition in filterOddLengthStrings"
+git checkout bug2
+git status
+git add .
+git commit -m " Fix wrong condition in makeBigStringFrom"
+git checkout bug1
+git status
+git add .
+git commit -m "Call method filterOddLengthStrings in main class"
+git checkout bug2
+git status
+git add .
+git commit -m "Call method makeBigStringFrom in main class"
+git status
+git push origin bug1
+git push origin bug2
+git push origin master
+git checkout master
+git merge bug1
+git push origin master
+git checkout bug2
+git rebase master
+code .
+git checkout master
+git status
+git checkout master
+git checkout master
+git merge bug2
+git push origin master
+git push bug1
+git push bug2
+git push origin bug2
+git push origin bug1
+git pull
+git checkout bug2
+git pull origin bug2
+git status
+git push origin bug2
+git log
+git checkout bug1
+git log
+git checkout bug2
+git log

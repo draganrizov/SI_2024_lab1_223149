@@ -1,0 +1,73 @@
+commit cfb539bc5b529b546cbbdacfb7489a770c21735a (HEAD -> bug2, origin/bug2)
+Merge: 6c7dddb 635e86e
+Author: Dragan Rizov <draganrizovdc@gmail.com>
+Date:   Sun Apr 14 14:40:01 2024 +0100
+
+    dMerge branch 'bug2' of https://github.com/draganrizov/SI_2024_lab1_223149 into bug2
+
+commit 6c7dddb5e3f23e553353f8a4b388ef9e91d460ee (origin/master, master)
+Author: Dragan Rizov <draganrizovdc@gmail.com>
+Date:   Sun Apr 14 14:35:40 2024 +0100
+
+    Call method makeBigStringFrom in main class
+
+commit 1640d1d5ad1ba76e4e9d61f028689569abdb13a6
+Author: Dragan Rizov <draganrizovdc@gmail.com>
+Date:   Sun Apr 14 14:33:52 2024 +0100
+
+     Fix wrong condition in makeBigStringFrom
+
+commit 635e86e0715fafe9536fc64830bb807bdfe9a498
+Author: Dragan Rizov <draganrizovdc@gmail.com>
+Date:   Sun Apr 14 14:35:40 2024 +0100
+
+
+
+
+commit b0322e66e9cd7bf0b81e82bf9fd7b95aa21d7834 (HEAD -> bug1, origin/bug1)
+Author: Dragan Rizov <draganrizovdc@gmail.com>
+Date:   Sun Apr 14 14:34:43 2024 +0100
+
+    Call method filterOddLengthStrings in main class
+
+commit 7e803ffcbcc917f1911c9d91efbffc0e782cb0ff
+Author: Dragan Rizov <draganrizovdc@gmail.com>
+Date:   Sun Apr 14 14:32:41 2024 +0100
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 16c25b86c489eefdccff0d7bb1b8488952afaf7c
+Author: Dragan Rizov <draganrizovdc@gmail.com>
+Date:   Sun Apr 14 14:31:03 2024 +0100
+
+    Add starter code
+
+commit 24c4974e0fe53ca8ce3f7409df7e3de382f81ca5
+Author: Dragan Rizov <draganrizovdc@gmail.com>
+Date:   Sun Apr 14 14:30:22 2024 +0100
+
+    Initial commit
+
+
+commit cfb539bc5b529b546cbbdacfb7489a770c21735a (HEAD -> bug2, origin/bug2)
+Merge: 6c7dddb 635e86e
+Author: Dragan Rizov <draganrizovdc@gmail.com>
+Date:   Sun Apr 14 14:40:01 2024 +0100
+
+    dMerge branch 'bug2' of https://github.com/draganrizov/SI_2024_lab1_223149 into bug2
+
+commit 6c7dddb5e3f23e553353f8a4b388ef9e91d460ee (origin/master, master)
+Author: Dragan Rizov <draganrizovdc@gmail.com>
+Date:   Sun Apr 14 14:35:40 2024 +0100
+
+    Call method makeBigStringFrom in main class
+
+commit 1640d1d5ad1ba76e4e9d61f028689569abdb13a6
+Author: Dragan Rizov <draganrizovdc@gmail.com>
+Date:   Sun Apr 14 14:33:52 2024 +0100
+
+     Fix wrong condition in makeBigStringFrom
+
+commit 635e86e0715fafe9536fc64830bb807bdfe9a498
+Author: Dragan Rizov <draganrizovdc@gmail.com>
+Date:   Sun Apr 14 14:35:40 2024 +0100
